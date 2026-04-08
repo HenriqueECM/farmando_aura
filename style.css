@@ -91,3 +91,14 @@ body {
     color: #189425;
 }
 
+.card::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: radial-gradient(circle at top, rgba(5, 203, 48, 0.15), transparent);
+    pointer-events: none;
+    border-radius: 12px;
+}
