@@ -73,3 +73,12 @@ body {
     border-bottom: 1px solid #000;
 }
 
+.habilidades ul {
+    padding-left: 16px;
+}
+
+.habilidades li {
+    font-size: 13px;
+    margin-bottom: 4px;
+}
+
