@@ -57,3 +57,19 @@ body {
     color: #333;
 }
 
+.habilidades,
+.caracteristicas {
+    background: #fdfaf3;
+    border: 2px solid #000;
+    border-radius: 6px;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+.habilidades h2,
+.caracteristicas h2 {
+    font-size: 14px;
+    margin-bottom: 6px;
+    border-bottom: 1px solid #000;
+}
+
