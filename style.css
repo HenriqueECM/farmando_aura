@@ -82,3 +82,12 @@ body {
     margin-bottom: 4px;
 }
 
+.caracteristicas p {
+    font-size: 13px;
+    margin-bottom: 4px;
+}
+
+.caracteristicas strong {
+    color: #189425;
+}
+
